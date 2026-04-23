@@ -7,7 +7,7 @@
 | Role | Name |
 |---|---|
 | Product Owner | Ali Alhosseini |
-| Scrum Master | |
+| Scrum Master | dj |
 | Developer | |
 | Developer | |
 | Developer | |
