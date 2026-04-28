@@ -7,7 +7,7 @@
 | Role | Name |
 |---|---|
 | Product Owner | Ali Alhosseini |
-| Scrum Master | dj |
+| Scrum Master | David John "DJ" Espiritu |
 | Developer | |
 | Developer | |
 | Developer | |
